@@ -12,7 +12,7 @@ This repository contains Challenge for automation test mobile for android
 
 
 ```
-MobileJunit
+AndroidSauceLabs
 |--- src/
 |   |---test/
 |       |---java/
@@ -35,7 +35,7 @@ MobileJunit
 ### 1.- Clone repository
 ```bash
 git clone <repository-url>
-cd MobileJunit
+cd AndroidSauceLabs
 ```
 
 ### 2.- Install dependencies
@@ -53,7 +53,7 @@ mvn clean install
 
 ### Run specific Tests
 ```bash
- mvn test -Dtest=RunnerTest test
+ mvn test -Dtest=RunnerOneTest test
 ```
 
 
