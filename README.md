@@ -1,2 +1,0 @@
-# AndroidSauceLabs
-Challenge
